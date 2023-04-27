@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+img 
+{
+    width: 20%;
+}
+.container
+{
+    background:url(./Assets/Html.19.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+  
+}
+.container
+{
+    width:1200px;
+    margin: 0 auto;
+    align-items: start;
+}
+.row
+{
+    display:flex;
+    flex-wrap: wrap;
+}
+.nav_link
+{
+    list-style: none;
+    gap:36px;
+}
+/*about as*/
+.container_about
+{
+    display:flex;
+    gap: 25px;
+    width:1200px;
+    margin:0 auto;
+}
+/*text*/
+h1
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+/*navigation color*/
+ul
+{
+    color:#fff;
+} 
+/*our blog*/
+.col_1
+{
+    display: flex;
+    width:1200px;
+    margin: 0 auto;
+}
+/*სარეგისტრაციო*/
+.container_Map2 
+{
+    display: flex;
+    gap: 25px;
+    width:1200px;
+    margin:0 auto;
+}
+
